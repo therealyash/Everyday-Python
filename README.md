@@ -1,1 +1,1 @@
-# Everyday-Python
+# EverydayPython
