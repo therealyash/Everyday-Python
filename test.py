@@ -1,3 +1,4 @@
-numbers = [1, 2, 3, 4, 5, 6]
-result = ["Even" if num % 2 == 0 else "Odd" for num in numbers]
-print(result)
+
+
+squares_dict = {i: i**2 for i in range(1,11)}
+print(squares_dict)
